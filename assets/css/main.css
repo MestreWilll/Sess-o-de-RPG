@@ -2182,7 +2182,7 @@ input, select, textarea {
 	}
 
 		header.major:after {
-			background: #e44c65;
+			background: #ffffff;
 			content: '';
 			display: inline-block;
 			height: 0.2em;
